@@ -1,9 +1,9 @@
  # Vietnamese spell correct and text classifier 
 
  ## Demo
- You have to download the model and data for the classifier in [Model](https://drive.google.com/open?id=1PoZ39LpH1lOSLE_xNVJNc8ZkySFZN3O8) and put it to our folder
+ You have to download the model and data for the classifier in [model](https://drive.google.com/open?id=1PoZ39LpH1lOSLE_xNVJNc8ZkySFZN3O8) and put it to our folder
  
- Or the whole project [Project](https://drive.google.com/drive/folders/1EFoYtjXdUPGxrMoZKWRlW_iyGndnUpKS?usp=sharing)
+ Or the whole [project](https://drive.google.com/drive/folders/1EFoYtjXdUPGxrMoZKWRlW_iyGndnUpKS?usp=sharing)
  #### Windows
  
 -Open your Command Prompt
