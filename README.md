@@ -1,9 +1,10 @@
  # Vietnamese spell correct and text classifier 
 
  ## Demo
- You have to download the model and data for the classifier in [Drive](https://drive.google.com/open?id=1PoZ39LpH1lOSLE_xNVJNc8ZkySFZN3O8) and put it to our folder
+ You have to download the model and data for the classifier in [Model](https://drive.google.com/open?id=1PoZ39LpH1lOSLE_xNVJNc8ZkySFZN3O8) and put it to our folder
  
- ### Windows
+ Or the whole project [Project](https://drive.google.com/drive/folders/1EFoYtjXdUPGxrMoZKWRlW_iyGndnUpKS?usp=sharing)
+ #### Windows
  
 -Open your Command Prompt
 ```
@@ -19,7 +20,7 @@
   - [VNTC](https://github.com/duyvuleo/VNTC)     
   - [Wiki article](https://dumps.wikimedia.org/viwiki/latest/)      
 - Prepocessing text, build the neural network and evaluate the accuracy:
-  - [Drive](https://drive.google.com/drive/folders/1L8chuTULzRwc0QSCcYiTd4R3D5vXGzte?usp=sharing)
+  - [Train](https://drive.google.com/drive/folders/1L8chuTULzRwc0QSCcYiTd4R3D5vXGzte?usp=sharing)
    (I also have some trained models in this drive folder)
 - Test the model:
   - Put your text to the add_noise.py file and it will return the corresponding noisy text
