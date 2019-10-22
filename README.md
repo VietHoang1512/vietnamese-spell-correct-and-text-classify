@@ -1,7 +1,9 @@
  # Vietnamese spell correct and text classifier 
 
  ## Demo
- ##### Windows
+ You have to download the da
+ 
+ ### Windows
  
 -Open your Command Prompt
 ```
@@ -17,8 +19,14 @@
   - [VNTC](https://github.com/duyvuleo/VNTC)     
   - [Wiki article](https://dumps.wikimedia.org/viwiki/latest/)      
 - Prepocessing text, build the neural network and evaluate the accuracy:
-   - [Drive](https://drive.google.com/drive/folders/1L8chuTULzRwc0QSCcYiTd4R3D5vXGzte?usp=sharing)
+  - [Drive](https://drive.google.com/drive/folders/1L8chuTULzRwc0QSCcYiTd4R3D5vXGzte?usp=sharing)
    (I also have some trained models in this drive folder)
+- Test the model:
+  - Put your text to the add_noise.py file and it will return the corresponding noisy text
+  - You also can edit that text like the way you want
+  - Then put the noisy text to our program (on your browse) and see the result
+   
+ ### This project is made by [Phan Việt Hoàng](https://www.facebook.com/hoang.phanviet.90)
      
 
 
