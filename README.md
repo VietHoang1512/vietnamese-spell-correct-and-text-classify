@@ -1,7 +1,7 @@
  # Vietnamese spell correct and text classifier 
 
  ## Demo
- You have to download the da
+ You have to download the model and data for the classifier in [Drive](https://drive.google.com/open?id=1PoZ39LpH1lOSLE_xNVJNc8ZkySFZN3O8) and put it to our folder
  
  ### Windows
  
@@ -23,7 +23,7 @@
    (I also have some trained models in this drive folder)
 - Test the model:
   - Put your text to the add_noise.py file and it will return the corresponding noisy text
-  - You also can edit that text like the way you want
+  - You can also edit that text like the way you want
   - Then put the noisy text to our program (on your browse) and see the result
    
  ##### This project is made by [Phan Việt Hoàng](https://www.facebook.com/hoang.phanviet.90)
