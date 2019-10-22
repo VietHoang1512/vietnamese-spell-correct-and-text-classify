@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+{% block main %}
+<head>
+  <h3>Text Classifier</h3>
+  <h4><br /></h4>
+</head>
+    <div class="container">
+    <form method="POST" action="/classifier">
+      <div class="form-group">
+        <label>Put your text here</label>
+        <textarea type="text" rows="5" cols="5" class="form-control"  name="rawtext" required="true"></textarea>
+        <br/>
+        <br/>
+        <button type="reset" class="btn btn-primary"><i class="fa fa-eraser"></i> Clear</button>
+        <button type="submit" class="btn btn-info"><i class="fa fa-database"></i> Submit</button>
+       
+      </div>
+    </form>
+  </div>
+  <br/>
+  <div class="container">
+    <div class="alert alert-success" role="alert">
+      <p class="input">Your input text:</p>
+        <div>{{raw_text}}</div>
+      <br />
+      <p class="alert-heading">Categorize:</p>
+        <div>{{results}}</div>
+      <br />
+
+    </div>
+  </div>
+  <br />
+  <footer class="small text-center text-muted">
+    Made by Lê Trọng Đức <a href="https://www.facebook.com/TrongDucLe.HUST">Contact</a>
+  </footer>  
+{% endblock %}
