@@ -26,7 +26,7 @@
   - You also can edit that text like the way you want
   - Then put the noisy text to our program (on your browse) and see the result
    
- ### This project is made by [Phan Việt Hoàng](https://www.facebook.com/hoang.phanviet.90)
+ ##### This project is made by [Phan Việt Hoàng](https://www.facebook.com/hoang.phanviet.90)
      
 
 
