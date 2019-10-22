@@ -21,7 +21,8 @@
 -Prepocessing text, build the neural network and evaluate the accuracy:
   
    - [Drive](https://drive.google.com/drive/folders/1L8chuTULzRwc0QSCcYiTd4R3D5vXGzte?usp=sharing)
-      
+     
+     I also have some trained models in the drive folder
      
 
 
