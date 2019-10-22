@@ -25,9 +25,17 @@
 - Test the model:
   - Put your text to the add_noise.py file and it will return the corresponding noisy text
   - You can also edit that text like the way you want
-  - Then put the noisy text to our program (on your browse) and see the result
+  - Then put the noisy text to spell corrector program (on your browse) and see the result
    
  ##### This project was made by [Phan Việt Hoàng](https://www.facebook.com/hoang.phanviet.90)
+ 
+ ## B/Text classifier
+- Data: 
+  - [VNTC](https://github.com/duyvuleo/VNTC)     
+- Test the model:
+  - Put the Vietnamese text to text classifier program (on your browse) and see the result
+   
+ ##### This project was made by [Lê Trọng Đức](https://www.facebook.com/TrongDucLe.HUST)
      
 
 
