@@ -1,17 +1,17 @@
-# vietnamese-spell-correct-and-text-classifier
+ Vietnamese spell correct and text classifier 
 
  Windows
  
 -Open your Command Prompt
-
-   cd <path to the folder which contain the app.py file>
+```
+>> cd <path to the folder which contain the app.py file>
   
-   pip install -r requirements.txt
+>> pip install -r requirements.txt
 
-   set FLASK_ENV=development
+>> set FLASK_ENV=development
 
-   flask run 
-
+>> flask run 
+```
  Then take the address and open this link on your browser
 
 
