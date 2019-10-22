@@ -1,4 +1,4 @@
- # Vietnamese spell correct and text classifier 
+ # Vietnamese spell corrector and text classifier 
 
  ## Demo
  You have to download the model and data for the classifier in [model](https://drive.google.com/open?id=1PoZ39LpH1lOSLE_xNVJNc8ZkySFZN3O8) and put it to our folder
