@@ -37,7 +37,7 @@
    
  ##### This project was made by [Lê Trọng Đức](https://www.facebook.com/TrongDucLe.HUST)
      
-
+#### Many thanks to [Lê Mạnh Hùng](https://www.facebook.com/langtu.khongtuoi) for helping us to finish this project
 
 
 
