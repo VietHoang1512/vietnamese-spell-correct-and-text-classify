@@ -6,7 +6,7 @@
  Or the whole [project](https://drive.google.com/drive/folders/1EFoYtjXdUPGxrMoZKWRlW_iyGndnUpKS?usp=sharing)
  #### Windows
  
--Open your Command Prompt
+- Open your Command Prompt
 ```
 >> cd <path to the folder which contains the app.py file>
 >> pip install -r requirements.txt
@@ -16,7 +16,7 @@
  Then take the address and open this link on your browser
 
 ## A/Spell corrector
-- Data: 
+- [Data](https://drive.google.com/drive/folders/1THy6bN6pwHEmRvLxfiGcW8dez5VwxzvG?usp=sharing): 
   - [VNTC](https://github.com/duyvuleo/VNTC)     
   - [Wiki article](https://dumps.wikimedia.org/viwiki/latest/)      
 - Prepocessing text, build the neural network and evaluate the accuracy:
