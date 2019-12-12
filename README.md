@@ -23,9 +23,8 @@
 - [Data](https://drive.google.com/drive/folders/1THy6bN6pwHEmRvLxfiGcW8dez5VwxzvG?usp=sharing): 
   - [VNTC](https://github.com/duyvuleo/VNTC)     
   - [Wiki article](https://dumps.wikimedia.org/viwiki/latest/)      
-- Prepocessing text, build the neural network and evaluate the accuracy:
-  - [Train](https://drive.google.com/drive/folders/1L8chuTULzRwc0QSCcYiTd4R3D5vXGzte?usp=sharing)
-   (I also have some trained models in this drive folder)
+- Prepocess text, build the neural network and evaluate the accuracy:
+  - [Training phase](https://github.com/KingLeo2000/Vietnamese-Spell-Correction)
 - Test the model:
   - Put your text to the add_noise.py file and it will return the corresponding noisy text
   - You can also edit that text like the way you want
@@ -48,7 +47,7 @@
 
  ##### This project was done by [Lê Trọng Đức](https://www.facebook.com/TrongDucLe.HUST)
      
-#### Many thanks to [Lê Mạnh Hùng](https://www.facebook.com/langtu.khongtuoi) for helping us to finish this project
+#### Many thanks to [Lê Mạnh Hùng](https://github.com/hungle00) for helping us to finish this project
 
 
 
